@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jungealexander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jungealexander" height="30" width="40" /></a>
+<a href="https://fosstodon.org/@jungealexander" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" alt="fosstodon.org/@jungealexander" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alexanderjunge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexanderjunge" height="30" width="40" /></a>
 <a href="/https://www.alexanderjunge.net/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.alexanderjunge.net/index.xml" height="30" width="40" /></a>
 </p>
